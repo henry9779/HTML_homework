@@ -1,0 +1,270 @@
+.header {
+    width: 100%;
+    background-color: #003c59;
+    position: fixed;
+    margin: auto;
+}
+
+.h2_w {
+    color: #fff;
+    font-size: 30px;
+}
+
+.h2_b {
+    color: #252525;
+    font-size: 40px;
+}
+
+.h3_b {
+    color: #555555;
+    font-size: 30px;
+}
+
+.h4_b {
+    color: #555555;
+    font-size: 20px;
+}
+
+.p_blue {
+    color: #02bed0;
+}
+
+.p_b {
+    color: #7d7d7d;
+}
+
+.p_w {
+    color: #fff;
+    font-size: 20px;
+}
+
+.header .container {
+    padding: 2% 0;
+}
+
+.header .row {
+    align-items: center;
+}
+
+.header .logo {
+    width: 40px;
+}
+
+.header .logo img {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.header a {
+    text-decoration: none;
+    color: #edf4f8;
+}
+
+.main_nav {
+    text-align: center;
+}
+
+.main_nav a {
+    margin: 1.666666%;
+    color: #2379a3;
+}
+
+.about {
+    background-color: #003c59;
+    text-align: center;
+    padding-top: 10%;
+}
+
+.about p {
+    padding: 1.333333% 0;
+}
+
+.about .register {
+    width: 200px;
+    height: 40px;
+    background-color: #f78d43;
+    line-height: 40px;
+    margin: auto;
+    border-radius: 100px;
+}
+
+.register a {
+    font-weight: border;
+    color: #edf4f8;
+    text-decoration: none;
+}
+
+.info {
+    background-color: #edf4f8;
+}
+
+.info .container {
+    padding-top: 5%;
+}
+
+.info .txt {
+    width: 90%;
+}
+
+.info h2 {
+    padding-bottom: 5%;
+}
+
+.info h3 {
+    padding-bottom: 5%;
+}
+
+.info p {
+    width: 90%;
+    padding-bottom: 5%;
+}
+
+.info .register {
+    text-align: center;
+    width: 200px;
+    height: 40px;
+    background-color: #f78d43;
+    line-height: 40px;
+    border-radius: 100px;
+}
+
+.info img {
+    width: 100%;
+}
+
+.list .container {
+    padding: 5% 0;
+    text-align: center;
+    align-items: center;
+}
+
+.list .txt {
+    width: 90%;
+}
+
+.list .pic {
+    width: 80%;
+}
+
+.list img {
+    width: 100%;
+}
+
+.list h2 {
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+.list h4 {
+    padding-bottom: 5%;
+}
+
+.contact {
+    background-color: #003c59;
+}
+
+.contact .container {
+    text-align: center;
+    padding: 10% 0;
+}
+
+.contact .container h2 {
+    padding-bottom: 2%;
+}
+
+.contact p {
+    padding-bottom: 2%
+}
+
+.contact input[type="text"] {
+    width: 39.166666%;
+    height: 40px;
+    color: #7e7e7e;
+    border-radius: 100px;
+    padding-left: 10px;
+}
+
+.contact input[type="submit"] {
+    width: 200px;
+    height: 40px;
+    color: #edf4f8;
+    background-color: #fc8f44;
+    border-radius: 100px;
+    font-weight: bolder;
+}
+
+.scroll {
+    background-color: #e86e32;
+}
+
+.scroll .container {
+    text-align: center;
+    width: 50%;
+    padding: 10% 0;
+}
+
+.scroll h2 {
+    padding-bottom: 3%;
+}
+
+.scroll .pic {
+    padding-bottom: 3%;
+}
+
+.scroll p {
+    padding-bottom: 3%;
+}
+
+.scroll .name {
+    color: #fff;
+    font-weight: bolder;
+}
+
+.footer {
+    width: 100%;
+    background-color: #272727;
+    margin: auto;
+}
+
+.footer .container {
+    padding: 2% 0;
+}
+
+.footer .row {
+    align-items: center;
+}
+
+.footer .btn_logo {
+    width: 30px;
+}
+
+.footer .btn_logo img {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.footer a {
+    text-decoration: none;
+    color: #7d7d7d;
+}
+
+.btn_nav {
+    text-align: center;
+}
+
+.btn_nav a {
+    margin: 1.666666%;
+}
+
+.footer .btn_link {
+    width: 30px;
+}
+
+.footer .btn_link img {
+    width: 100%;
+    vertical-align: middle;
+}
+
+.copyright {
+    border-top: 1px solid #7d7d7d;
+}
